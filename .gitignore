@@ -1,0 +1,23 @@
+
+# Python System Files
+
+__pycache_/
+*.pyc
+*.pyo
+
+# Archives
+
+*.zip
+*.tz
+*.tz
+*.tar
+*.log
+
+# PLH Junk
+
+x
+x*
+X
+X*
+A
+AA*
